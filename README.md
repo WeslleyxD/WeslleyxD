@@ -2,7 +2,7 @@
 
   # 🙂 Olá, eu sou Weslley Pablo! 🤝
 #### 🎓 Cursando 2ª semestre de Análise e Desenvolvimento de Sistemas (FIAP) 🎓
-### 🙏À procura de estágio🙏
+### 🙏À procura da primeira oportunidade🙏
   
 <hr>
 
