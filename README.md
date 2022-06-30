@@ -1,7 +1,7 @@
 <div align="center">
 
   # 🙂 Olá, eu sou Weslley Pablo! 🤝
-#### 🎓 Cursando 2ª semestre de Análise e Desenvolvimento de Sistemas (FIAP) 🎓
+#### 🎓 Cursando 3ª semestre de Análise e Desenvolvimento de Sistemas (FIAP) 🎓
   
 <hr>
 
@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="DjangoRest">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Html5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white alt="AWS"
   </div>
 
 <hr>
